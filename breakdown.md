@@ -26,7 +26,7 @@ https://git-scm.com/install/mac
   - git checkout "branch_name"
   - git diff
   - git add "file_name"
-  - git commit -m "message_for_commmit"
+  - git commit -m "message_for_commit"
   - git log
   - git merge
 
@@ -47,3 +47,6 @@ https://git-scm.com/install/mac
     - Everyone shares the remote
     - Think Google docs
   - git clone
+  - Make a PR
+  - Simulate merge conflict
+
