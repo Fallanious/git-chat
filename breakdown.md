@@ -46,4 +46,5 @@ https://git-scm.com/install/mac
   - local vs remote
   - git clone
   - Make a PR
+  - Simulate merge conflict
 
