@@ -1,7 +1,7 @@
 ## Link to the git website and CHEAT SHEET
 https://git-scm.com
 
-(This is your go-to)
+(This is your go-to - THIS IS HOLY GRAIL)
 https://git-scm.com/cheat-sheet
 
 
@@ -18,6 +18,7 @@ https://git-scm.com/install/mac
 ## Create a repo
 
   - git init
+  - (creates a .git directory)
 
 ## Git Essentials
 
@@ -27,12 +28,13 @@ https://git-scm.com/install/mac
   - git add "file_name"
   - git commit -m "message_for_commmit"
   - git log
+  - git merge
 
   # Essential when working with a remote repo (Github)
   - git push
   - git pull
-  - git merge
 
   # honorable mentions
   - git branch
   - git reset 
+  - git stash
