@@ -21,8 +21,16 @@ https://git-scm.com/install/mac
   - git diff
   - git add "file_name"
   - git commit -m "message_for_commmit"
+  - git log
+
   # Essential when working with a remote repo (Github)
   - git push
   - git pull
+
+  # honorable mentions
+  - git branch
+  - git reset 
+
+
 
 
