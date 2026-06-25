@@ -31,10 +31,8 @@ https://git-scm.com/install/mac
   # Essential when working with a remote repo (Github)
   - git push
   - git pull
+  - git merge
 
   # honorable mentions
   - git branch
   - git reset 
-
-
-
