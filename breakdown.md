@@ -10,6 +10,11 @@ https://git-scm.com/install/mac
 
  - brew install git
 
+## What is Git
+  - A version history. It tracks changes to files.
+  - Git vs Github
+    - Git is local, Github is global
+
 ## Create a repo
 
   - git init
@@ -30,7 +35,6 @@ https://git-scm.com/install/mac
   # honorable mentions
   - git branch
   - git reset 
-
 
 
 
