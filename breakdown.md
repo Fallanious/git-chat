@@ -44,5 +44,6 @@ https://git-scm.com/install/mac
   - Git with internet
   - Pull requests
   - local vs remote
+    - Everyone shares the remote
+    - Think Google docs
   - git clone
-  
